@@ -38,3 +38,6 @@ Designed as a 16-state Mealy machine split into two processes (sequential state/
 
 Open `project\_reti\_logiche\_definitivo.xpr` in Xilinx Vivado, then run behavioral simulation on any of the testbenches under Simulation Sources.
 
+## Documentation
+See [`report.pdf`](./report.pdf) for the full architecture, state-by-state description, and simulation results.
+
